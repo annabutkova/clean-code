@@ -72,7 +72,8 @@
   margin: 0;
   text-transform: uppercase;
 }
-.list__item__input__text {
+.list__item__input__text,
+.new__input__text{
   margin: 0;
   font-size: 18px;
   line-height: 18px;
